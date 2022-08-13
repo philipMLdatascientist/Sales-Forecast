@@ -53,7 +53,7 @@ Critial Values:
    1% : 0.739
 Result: The series is stationary
 
-Both tShe ADF & KPSS statistical tests find that the time series is stationary
+Both the ADF & KPSS statistical tests find that the time series is stationary
 
 - The correlation plots above give me the impression that both seasonal and non-seasonal integration parameters are higher than 1 and if I am reading them correctly (the number of lags before it decays to 0) then both are 5. However, this would create a very complex model. Therefore, I will apply a value of 0 and 1 to both of these parameters.
 
